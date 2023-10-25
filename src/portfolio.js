@@ -25,14 +25,14 @@ const greeting = {
     "A recent graduate passionate about software development, equipped with a keen eye for detail and a strong programming foundation, committed to continuous learning for impactful contributions to the tech industry.",
   resumeLink:
     "https://drive.google.com/file/d/14zAQ4aYK8iRfR7CMsIO5cUgaI62VrEil/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/600215888/Portfolio",
   githubProfile: "https://github.com/600215888",
 };
 
 const socialMediaLinks = [
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://www.linkedin.com/in/hanson-zhang-466169265/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
