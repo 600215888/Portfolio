@@ -60,7 +60,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Backend Developement",
+      title: "Backend Development",
       fileName:"FullStackImg",
       skills: [
         "⚡ proficiency in Spring Boot and MyBatis enables the creation of efficient and scalable backend systems with the capability to incorporate RESTful APIs.",
