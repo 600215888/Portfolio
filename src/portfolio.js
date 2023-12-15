@@ -9,11 +9,11 @@ const settings = {
 const seo = {
   title: "Hanson's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A recent graduate passionate about software development, equipped with a keen eye for detail and a strong programming foundation, committed to continuous learning for impactful contributions to the tech industry.",
   og: {
     title: "Hanson Zhang Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://webhanson.com",
   },
 };
 
@@ -44,7 +44,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:q779575184@gmail.com",
+    link: "mailto:hansonzhangpc@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -303,9 +303,9 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "31 Erbsville Crt, Waterloo, Ontario, Canada, N2J 3Z4",
+      "Waterloo, Ontario, Canada",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/place/31+Erbsville+Ct,+Waterloo,+ON+N2J+3Z4",
+    location_map_link: "https://www.google.com/maps/place/waterloo",
   },
   phoneSection: {
     title: "Phone Number",
